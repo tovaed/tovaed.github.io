@@ -4,7 +4,7 @@
 <body>
 	<div id="contenedor">
 		<div id="entrada">
-			<img src="C:/Users/richa/Downloads/Vector.PNG" id="logo">
+			<img src="Vector.PNG" id="logo">
 			<br>
 			<h1>Programa para encriptar y desencriptar</h1>
 
@@ -18,7 +18,7 @@
 		</div>
 
 		<div id="salida">
-			<img src="C:/Users/richa/Downloads/Muñeco.PNG">
+			<img src="Muñeco.PNG">
 
 			<b><p>No ha ingresado ningún texto</p></b>
 			<p>Ingrese un texto para encriptar o desencriptar</p>
