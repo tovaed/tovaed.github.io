@@ -1,0 +1,112 @@
+h1
+{
+	color: indigo;
+	font-style: italic;
+	font-size: 60px;
+	margin: 30;
+}
+
+p
+{
+	color: white;
+	font-style: oblique;
+	font-size: 20px;
+}
+
+#escrito
+{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#contenedor
+{
+	
+	overflow: hidden;
+	width: 1000px;
+	height: 900px;
+}
+
+#entrada
+{
+	float: left;
+	margin: 100 px;
+	width: 400px;
+	height: 900px;
+	background: darkcyan;
+}
+img{
+	padding-left: 40px;
+	padding-top: 60px;
+}
+#logo
+{
+	padding-left: 50;
+	padding-top: 20;
+}
+
+#encripta
+{
+	
+	width: 300;
+	height: 50;
+	background: #0A3871;
+	font-style: italic;
+	color: white ;
+	border-radius: 25px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+#desencripta
+{
+	
+	width: 300;
+	height: 50;
+	background: #0A3871;
+	font-style: italic;
+	color: white ;
+	border-radius: 25px;
+	margin-top: 10px;
+	margin-left: 50px;
+
+	
+}
+
+#salida
+{
+	float: left;
+	margin: 100 px;
+	width: 400px;
+	height: 900px;
+	background: cadetblue;
+}
+
+#salida2
+{
+	float: left;
+	margin: 100 px;
+	width: 400px;
+	height: 900px;
+	background: cadetblue;
+}
+
+textarea
+{
+	margin-left: 50px;
+	width: 300px;
+	height: 30px;
+	border: 0;
+
+}
+
+#copiar
+{
+	width: 300;
+	height: 50;
+	background: #0A3871;
+	font-style: italic;
+	color: white ;
+	border-radius: 25px;
+	margin-top: 10px;
+	margin-left: 50px;
+
+}
